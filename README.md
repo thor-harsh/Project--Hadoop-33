@@ -2,8 +2,7 @@
 
 <table>
   
-**In this project We will use MapReduce with Python to do an amazing stuff.Here We will calculate total amount spent by customer based on the dataset given and also sort it by
-using two mapper and reducer function using MRJob library**.<br></br>
+**In this project We will use MapReduce with Python to do an amazing stuff.Here We will calculate total amount spent by customer based on the dataset given and also sort it by using two mapper and reducer function using MRJob library**.<br></br>
 
 **Before jumping to the code lets understand MapReduce First**...<br></br>
 
