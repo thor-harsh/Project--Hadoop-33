@@ -6,7 +6,7 @@
 
 **Before jumping to the code lets understand MapReduce First**...<br></br>
 
-MapReduce is a programming paradigm that enables massive scalability across hundreds or thousands of servers in a Hadoop cluster. As the processing component, MapReduce is the heart of Apache Hadoop. The term "MapReduce" refers to two separate and distinct tasks that Hadoop programs perform.
+MapReduce is a programming paradigm that enables massive scalability across hundreds or thousands of servers in a Hadoop cluster. As the processing component, MapReduce is the heart of Apache Hadoop. The term "MapReduce" refers to two separate and distinct tasks that Hadoop programs perform.<br></br>
 A MapReduce program is composed of a map procedure, which performs filtering and sorting, and a reduce method, which performs a summary operation.<br></br>
 
 
