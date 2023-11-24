@@ -1,5 +1,4 @@
 # Project--Hadoop-33
-# Project--Hadoop-30
 <table>
   
 **In this project We will use MapReduce with Python to do an amazing stuff.Here We will calculate total amount spent by customer based on the dataset given and will sort it**.<br></br>
